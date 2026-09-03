@@ -1,0 +1,21 @@
+{
+  "enabled": true,
+  "owner": "Mataiasu",
+  "repo": "PokemonDrawer-AI",
+  "release_asset": "PokemonDrawer_AI_AUTONOME.zip",
+  "startup_check": true,
+  "timeout_seconds": 30,
+  "preserve": [
+    "versions",
+    "FINAL",
+    "__pycache__",
+    "qwen.log",
+    "optimization_history.json",
+    "BEST_RESULT.json",
+    "BEST_SCORE.json",
+    "BEST_VERSION.txt",
+    "STOP_REASON.txt",
+    "update.json",
+    "VERSION.txt"
+  ]
+}
