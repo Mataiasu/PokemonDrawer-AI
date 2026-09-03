@@ -1,6 +1,6 @@
 {
-  "version": "V40",
+  "version": "V41",
   "asset_name": "PokemonDrawer_AI_AUTONOME.zip",
   "enabled": true,
-  "notes": "Stable launcher architecture: future releases are downloaded automatically into userdata/versions."
+  "notes": "V41 test: launcher should detect V41 from GitHub and update automatically from V40. Future releases keep the same asset name."
 }
