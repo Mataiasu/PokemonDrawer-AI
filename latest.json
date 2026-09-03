@@ -1,0 +1,7 @@
+{
+  "version": "V39",
+  "filename": "PokemonDrawer_AI_AUTONOME_V39.zip",
+  "sha256": "9a06a3f89d77d8c4f824f8c4ff9b455d580e0165986bdf45a43eb4e938b05594",
+  "status": "package_ready_for_github_upload",
+  "notes": "V39 updater uses this manifest and per-file SHA-256 verification. The binary ZIP still needs to be uploaded as a GitHub Release asset or repository binary asset."
+}
